@@ -15,6 +15,9 @@ basadas en las enseñanzas de los Turtle Traders. La simulación incluye
 parámetros clave como el capital inicial, el riesgo por operación, la
 volatilidad, y los niveles de breakout y trailing stop.
 
+
+![alt text](image.png)
+
 ## Proyecto Libre
 
 Este proyecto es de código abierto y está disponible para que la

@@ -1,9 +1,3 @@
----
-lang: es
-title: Turtle Traders Simulator
-viewport: width=device-width, initial-scale=1.0
----
-
 # Turtle Traders Simulator
 
 **Turtle Traders Simulator** es una herramienta diseñada para ayudar a
